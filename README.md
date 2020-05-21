@@ -1,4 +1,4 @@
-# Note Taker ![MIT-license](./utils/licenses/img/license-MIT-brightgreen.svg)
+# Note Taker ![MIT-license](./licenses/img/license-MIT-brightgreen.svg)
 
 ## Description
 Application to take notes created using both front and backend Javascript, utilizing Node.js and Express. Application is deployed to Heroku.
@@ -26,7 +26,7 @@ After Node Package Manager has been initialized and installed, use npm start to 
 ## License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-To view the full license, [click here](./utils/licenses/text/MIT.txt).
+To view the full license, [click here](./licenses/text/MIT.txt).
 
 ## Tests
 Try adding and deleting notes on an Express instance to see usage.
