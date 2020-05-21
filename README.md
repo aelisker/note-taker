@@ -23,7 +23,7 @@ npm init, npm install
 ## Usage
 After Node Package Manager has been initialized and installed, use npm start to start the server on port 3001.
 
-![walkthrough](.Develop/src/walkthrough.gif)
+![walkthrough](./Develop/src/walkthrough.gif)
 
 ## License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
